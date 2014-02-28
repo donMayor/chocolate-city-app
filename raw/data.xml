@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song>
+        <id>1</id>
+        <title>Someone Like You</title>
+        <artist>Adele</artist>
+        <duration>4:47</duration>
+        <plays>1662</plays>
+        <thumb_url>http://api.androidhive.info/music/images/adele.png</thumb_url>
+    </song>
+    <song>
+        <id>2</id>
+        <title>Space Bound</title>
+        <artist>Eminem</artist>
+        <duration>4:38</duration>
+        <plays>1900</plays>
+        <thumb_url>http://api.androidhive.info/music/images/eminem.png</thumb_url>
+    </song>
+ </music>
